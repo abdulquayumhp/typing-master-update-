@@ -149,7 +149,7 @@ button {
 
 .card {
   flex-wrap: wrap;
-  width: 400px;
+  width: 340px;
   height: 100%;
   padding: 50px;
   justify-content: space-between;
